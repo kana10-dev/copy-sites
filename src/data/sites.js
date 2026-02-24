@@ -58,6 +58,15 @@ const sites = [
     repoUrl: "https://github.com/kana10-dev/codejump-recipe2",
     demoUrl: "https://kana10-dev.github.io/codejump-recipe2/",
   },
+  {
+    id: "codejump-wooden-jewelry",
+    title: "ブランドサイト",
+    description: "【Codejump #6】ブランドサイトの模写。色んな新しい技術を学んだ。",
+    thumbnail: "/thumbnails/brand.png",
+    originalUrl: "https://code-jump.com/brand-menu/",
+    repoUrl: "https://github.com/kana10-dev/codejump-wooden-jewelry",
+    demoUrl: "https://kana10-dev.github.io/codejump-wooden-jewelry/",
+  },
 ]
 
 export default sites
