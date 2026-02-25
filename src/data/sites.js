@@ -61,11 +61,20 @@ const sites = [
   {
     id: "codejump-wooden-jewelry",
     title: "ブランドサイト",
-    description: "【Codejump #6】ブランドサイトの模写。色んな新しい技術を学んだ。",
+    description: "【Codejump #6】ブランドサイトの模写。mailtoやcolumn_reverseなどを学んだ。",
     thumbnail: "/thumbnails/brand.png",
     originalUrl: "https://code-jump.com/brand-menu/",
     repoUrl: "https://github.com/kana10-dev/codejump-wooden-jewelry",
     demoUrl: "https://kana10-dev.github.io/codejump-wooden-jewelry/",
+  },
+  {
+    id: "codejump-portfolio1",
+    title: "ポートフォリオサイト",
+    description: "【Codejump #7】ポートフォリオの模写。pictureタグやフォームの作り方を学んだ。",
+    thumbnail: "/thumbnails/portfolio1.png",
+    originalUrl: "https://code-jump.com/portfolio1-menu/",
+    repoUrl: "https://github.com/kana10-dev/codejump-portfolio1",
+    demoUrl: "https://kana10-dev.github.io/codejump-portfolio1/",
   },
 ]
 
