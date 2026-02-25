@@ -70,11 +70,20 @@ const sites = [
   {
     id: "codejump-portfolio1",
     title: "ポートフォリオサイト",
-    description: "【Codejump #7】ポートフォリオの模写。pictureタグやフォームの作り方を学んだ。",
+    description: "【Codejump #7】ポートフォリオサイトの模写。pictureタグやフォームの作り方を学んだ。",
     thumbnail: "/thumbnails/portfolio1.png",
     originalUrl: "https://code-jump.com/portfolio1-menu/",
     repoUrl: "https://github.com/kana10-dev/codejump-portfolio1",
     demoUrl: "https://kana10-dev.github.io/codejump-portfolio1/",
+  },
+  {
+    id: "codejump-store1",
+    title: "ストアサイト",
+    description: "【Codejump #8】ストアサイトの模写。画像を背景にする方法を学んだ。",
+    thumbnail: "/thumbnails/store1.png",
+    originalUrl: "https://code-jump.com/store1-menu/",
+    repoUrl: "https://github.com/kana10-dev/codejump-store1",
+    demoUrl: "https://kana10-dev.github.io/codejump-store1/",
   },
 ]
 
