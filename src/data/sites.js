@@ -85,6 +85,15 @@ const sites = [
     repoUrl: "https://github.com/kana10-dev/codejump-store1",
     demoUrl: "https://kana10-dev.github.io/codejump-store1/",
   },
+  {
+    id: "codejump-ec",
+    title: "ECサイト",
+    description: "【Codejump #9】ECサイトの模写。tableタグの基礎を学んだ。",
+    thumbnail: "/thumbnails/ec.png",
+    originalUrl: "https://code-jump.com/ec-menu/",
+    repoUrl: "https://github.com/kana10-dev/codejump-ec",
+    demoUrl: "https://kana10-dev.github.io/codejump-ec/",
+  },
 ]
 
 export default sites
