@@ -96,12 +96,21 @@ const sites = [
   },
   {
     id: "codejump-corporate2",
-    title: "コーポレートサイトサイト",
+    title: "コーポレートサイト",
     description: "【Codejump #10】コーポレートサイトの模写。難しい配置を練習した。",
     thumbnail: "/thumbnails/corporate2.png",
     originalUrl: "https://code-jump.com/corporate2-menu/",
     repoUrl: "https://github.com/kana10-dev/codejump-corporate2",
     demoUrl: "https://kana10-dev.github.io/codejump-corporate2/",
+  },
+  {
+    id: "codejump-store3",
+    title: "ストア(和菓子)サイト",
+    description: "【Codejump #11】ストア(和菓子)サイトの模写。縦書きとiframeでマップを埋め込む方法を学んだ。",
+    thumbnail: "/thumbnails/store3.png",
+    originalUrl: "https://code-jump.com/store3-menu/",
+    repoUrl: "https://github.com/kana10-dev/codejump-store3",
+    demoUrl: "https://kana10-dev.github.io/codejump-store3/",
   },
 ]
 
