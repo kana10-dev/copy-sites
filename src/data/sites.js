@@ -112,6 +112,15 @@ const sites = [
     repoUrl: "https://github.com/kana10-dev/codejump-store3",
     demoUrl: "https://kana10-dev.github.io/codejump-store3/",
   },
+  {
+    id: "codejump-store2",
+    title: "ストア(インテリア)サイト",
+    description: "【Codejump #12】ストア(インテリア)サイトの模写。複数ページや、JQueryに挑戦した。",
+    thumbnail: "/thumbnails/store2.png",
+    originalUrl: "https://code-jump.com/store2-menu/",
+    repoUrl: "https://github.com/kana10-dev/codejump-store2",
+    demoUrl: "https://kana10-dev.github.io/codejump-store2/",
+  },
 ]
 
 export default sites
