@@ -121,6 +121,15 @@ const sites = [
     repoUrl: "https://github.com/kana10-dev/codejump-store2",
     demoUrl: "https://kana10-dev.github.io/codejump-store2/",
   },
+  {
+    id: "codejump-blog",
+    title: "ブログサイト",
+    description: "【Codejump #13】ブログサイトの模写。2カラム構成で、スタイリングとアニメーションを学んだ。",
+    thumbnail: "/thumbnails/blog.png",
+    originalUrl: "https://code-jump.com/blog-menu/",
+    repoUrl: "https://github.com/kana10-dev/codejump-blog",
+    demoUrl: "https://kana10-dev.github.io/codejump-blog/",
+  },
 ]
 
 export default sites
