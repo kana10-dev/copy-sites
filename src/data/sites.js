@@ -139,6 +139,15 @@ const sites = [
     repoUrl: "https://github.com/kana10-dev/codejump-store",
     demoUrl: "https://kana10-dev.github.io/codejump-store/",
   },
+  {
+    id: "codejump-corporate3",
+    title: "コーポレートサイト",
+    description: "【Codejump #15】コーポレートサイトの模写。図形の作成。細かいデザインと、簡単なアニメーションについて学んだ。",
+    thumbnail: "/thumbnails/corporate3.png",
+    originalUrl: "https://code-jump.com/corporate3-menu/",
+    repoUrl: "https://github.com/kana10-dev/codejump-corporate3",
+    demoUrl: "https://kana10-dev.github.io/codejump-corporate3/",
+  },
 ]
 
 export default sites
