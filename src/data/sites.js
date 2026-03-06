@@ -148,6 +148,15 @@ const sites = [
     repoUrl: "https://github.com/kana10-dev/codejump-corporate3",
     demoUrl: "https://kana10-dev.github.io/codejump-corporate3/",
   },
+  {
+    id: "codejump-lp",
+    title: "ランディングページ",
+    description: "【Codejump #16】ランディングページの模写。inview.jsや@keyframesを使ったアニメーションについて学んだ。",
+    thumbnail: "/thumbnails/lp.png",
+    originalUrl: "https://code-jump.com/lp-menu/",
+    repoUrl: "https://github.com/kana10-dev/codejump-lp",
+    demoUrl: "https://kana10-dev.github.io/codejump-lp/",
+  },
 ]
 
 export default sites
