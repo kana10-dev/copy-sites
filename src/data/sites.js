@@ -157,6 +157,15 @@ const sites = [
     repoUrl: "https://github.com/kana10-dev/codejump-lp",
     demoUrl: "https://kana10-dev.github.io/codejump-lp/",
   },
+  {
+    id: "codejump-media",
+    title: "メディアサイト",
+    description: "【Codejump #17】メディアサイトの模写。slickを使用した。",
+    thumbnail: "/thumbnails/media.png",
+    originalUrl: "https://code-jump.com/media-menu/",
+    repoUrl: "https://github.com/kana10-dev/codejump-media",
+    demoUrl: "https://kana10-dev.github.io/codejump-media/",
+  },
 ]
 
 export default sites
