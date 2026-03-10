@@ -166,6 +166,24 @@ const sites = [
     repoUrl: "https://github.com/kana10-dev/codejump-media",
     demoUrl: "https://kana10-dev.github.io/codejump-media/",
   },
+  {
+    id: "codejump-profile-wp",
+    title: "プロフィールサイト(WordPress)",
+    description: "【Codejump #19】プロフィールサイト(WordPress)の模写。WordPressに挑戦。phpを１から学ぶところから始め、基礎を学んだ。",
+    thumbnail: "/thumbnails/profile-wp.png",
+    originalUrl: "https://code-jump.com/profile-menu-wp/",
+    repoUrl: "https://github.com/kana10-dev/codejump-profile-wp",
+    demoUrl: "",
+  },
+  {
+    id: "codejump-photo-wp",
+    title: "フォトサイト(WordPress)",
+    description: "【Codejump #19】フォトサイト(WordPress)の模写。基礎の理解を深めた。",
+    thumbnail: "/thumbnails/photo-wp.png",
+    originalUrl: "https://code-jump.com/photo-menu-wp/",
+    repoUrl: "https://github.com/kana10-dev/codejump-photo-wp",
+    demoUrl: "",
+  },
 ]
 
 export default sites
