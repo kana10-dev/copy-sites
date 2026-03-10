@@ -37,8 +37,8 @@ const sites = [
     description: "【Codejump #3】フォトサイト2の模写。innerやflex, listの練習。",
     thumbnail: "/thumbnails/photo-book2.png",
     originalUrl: "https://code-jump.com/photo-menu/",
-    repoUrl: "https://github.com/kana10-dev/codejump-photo-book",
-    demoUrl: "https://kana10-dev.github.io/codejump-photo-book/",
+    repoUrl: "https://github.com/kana10-dev/codejump-photo-book2",
+    demoUrl: "https://kana10-dev.github.io/codejump-photo-book2/",
   },
   {
     id: "codejump-recipe-diary",
@@ -169,11 +169,10 @@ const sites = [
   {
     id: "codejump-profile-wp",
     title: "プロフィールサイト(WordPress)",
-    description: "【Codejump #19】プロフィールサイト(WordPress)の模写。WordPressに挑戦。phpを１から学ぶところから始め、基礎を学んだ。",
+    description: "【Codejump #18】プロフィールサイト(WordPress)の模写。WordPressに挑戦。phpを１から学ぶところから始め、基礎を学んだ。",
     thumbnail: "/thumbnails/profile-wp.png",
     originalUrl: "https://code-jump.com/profile-menu-wp/",
     repoUrl: "https://github.com/kana10-dev/codejump-profile-wp",
-    demoUrl: "",
   },
   {
     id: "codejump-photo-wp",
@@ -182,7 +181,6 @@ const sites = [
     thumbnail: "/thumbnails/photo-wp.png",
     originalUrl: "https://code-jump.com/photo-menu-wp/",
     repoUrl: "https://github.com/kana10-dev/codejump-photo-wp",
-    demoUrl: "",
   },
 ]
 

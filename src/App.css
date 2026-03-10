@@ -30,16 +30,6 @@
   margin: 0 0 0.75rem;
 }
 
-.header__subtitle a {
-  color: #4f46e5;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.header__subtitle a:hover {
-  text-decoration: underline;
-}
-
 .header__count {
   display: inline-block;
   background: #f3f4f6;
